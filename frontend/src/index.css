@@ -4,7 +4,7 @@
 
 .hero-bg {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
-        url("hero.png");
+        url("/hero.png");
 }
 
 .shinner {
